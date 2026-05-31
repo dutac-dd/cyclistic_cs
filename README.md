@@ -8,12 +8,12 @@ This case study analyzes 12 months of Cyclistic bike-share trip data to identify
 **How do annual members and casual riders use Cyclistic bikes differently?**
 
 ## Tools Used
-- **Google BigQuery** — data cleaning and analysis
-- **Tableau Public** — data visualization
-- **Google Slides** — presentation
+- **Google BigQuery** - data cleaning and analysis
+- **Tableau Public** - data visualization
+- **Google Slides** - presentation
 
 ## Data Source
-12 months of Cyclistic trip data (May 2025 – April 2026)
+12 months of Cyclistic trip data (May 2025 - April 2026)
 https://divvy-tripdata.s3.amazonaws.com/index.html
 
 ## Key Findings
