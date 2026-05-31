@@ -13,15 +13,15 @@ This case study analyzes 12 months of Cyclistic bike-share trip data to identify
 - **Google Slides** — presentation
 
 ## Data Source
-12 months of Cyclistic trip data (May 2024 – April 2026)
+12 months of Cyclistic trip data (May 2025 – April 2026)
 https://divvy-tripdata.s3.amazonaws.com/index.html
 
 ## Key Findings
-- 🚴 **Casual riders take 70% longer rides** than members on average (21 min vs 12 min)
-- 📅 **Casual riders peak on weekends**, while members ride consistently on weekdays
-- ⏰ **Members show clear rush hour spikes** at 8am and 5pm — casual riders do not
-- ☀️ **Both groups peak in summer**, but members maintain higher ridership year-round
-- ⚡ **Electric bikes are preferred** by both groups, with casual riders showing a stronger preference
+- **Casual riders take 70% longer rides** than members on average (21 min vs 12 min)
+- **Casual riders peak on weekends**, while members ride consistently on weekdays
+- **Members show clear rush hour spikes** at 8am and 5pm — casual riders do not
+- **Both groups peak in summer**, but members maintain higher ridership year-round
+- **Electric bikes are preferred** by both groups, with casual riders showing a stronger preference
 
 ## Recommendations
 1. **Weekend Membership Tier** - a lower-cost weekend-only membership targeting casual riders' existing habits
